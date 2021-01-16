@@ -1,0 +1,7 @@
+Flask
+flask_bootstrap
+requests
+openpyxl
+Pillow
+werkzeug
+scikit-image
