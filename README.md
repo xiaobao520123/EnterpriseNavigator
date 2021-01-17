@@ -11,6 +11,14 @@ srvbase_qcc：企航企业实体名称识别服务端
 client_qcc：企航Web应用
 
 client_qcc_app：企航移动端App（实现随手拍照识别）
+
+# 效果展示
+## uni-app端拍照查证
+![手机端](https://github.com/xiaobao520123/EnterpriseNavigator/blob/main/APP%E9%9A%8F%E6%89%8B%E6%8B%8D%E7%85%A7%E6%9F%A5%E8%AF%81.gif)
+
+## Web端批量识别
+![Web端](https://github.com/xiaobao520123/EnterpriseNavigator/blob/main/Web%E7%AB%AF%E6%89%B9%E9%87%8F%E8%AF%86%E5%88%AB.gif)
+
 # 参考
 [AdvancedEAST](https://github.com/huoyijie/AdvancedEAST)
 
