@@ -13,19 +13,13 @@ client_qcc：企航Web应用
 client_qcc_app：企航移动端App（实现随手拍照识别）
 
 # 运行环境
-python>=3.7
-
-tensorflow==1.14.0
-
-tensorflow-gpu==1.14.0
-
-tensorpack==0.9.8
-
-keras==2.1.4
-
-pycocotools
-
-**gast==0.2.2**
+> python>=3.7<br>
+tensorflow==1.14.0<br>
+tensorflow-gpu==1.14.0<br>
+tensorpack==0.9.8<br>
+keras==2.1.4<br>
+pycocotools<br>
+**gast==0.2.2**<br>
 
 # 效果展示
 ## uni-app端拍照查证
