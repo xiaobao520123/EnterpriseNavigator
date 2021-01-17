@@ -14,11 +14,17 @@ client_qcc_app：企航移动端App（实现随手拍照识别）
 
 # 运行环境
 python>=3.7
+
 tensorflow==1.14.0
+
 tensorflow-gpu==1.14.0
+
 tensorpack==0.9.8
+
 keras==2.1.4
+
 pycocotools
+
 **gast==0.2.2**
 
 # 效果展示
