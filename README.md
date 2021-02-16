@@ -10,7 +10,7 @@ srvbase_qcc：企航企业实体名称识别服务端
 
 client_qcc：企航Web应用
 
-client_qcc_app：企航移动端App（实现随手拍照识别）
+client_qcc_app：企航移动端App（实现随手拍照识别，使用 HBuilderX 开发）
 
 # 运行环境
 > python>=3.7<br>
